@@ -1,0 +1,18 @@
+
+/*
+Part 4 - Question 1:
+import all of the partials and mixins
+-mixins/_textshadow.scss
+-partials/_colors.scss
+-partials/_fontSizes.scss
+-partials/_body.scss
+-partials/_header.scss
+-partials/_main.scss
+*/
+@import "mixins/_textshadow.scss";
+@import "partials/_colors.scss";
+@import "partials/_fontSizes.scss";
+@import "partials/_body.scss";
+@import "partials/_header.scss";
+@import "partials/_main.scss";
+@import "partials/_footer.scss";
